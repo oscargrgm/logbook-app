@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="blood_glucose_measurement_add_measurement_title">Add measurement</string>
+    <string name="blood_glucose_measurement_save_button">Save</string>
+    <string name="blood_glucose_mmol_liter_label" translatable="false">mmol/L</string>
+    <string name="blood_glucose_mg_dl_label" translatable="false">mg/dL</string>
+    <string name="average_blood_glucose_label">Your average is %1$s %2$s.</string>
+    <string name="blood_glucose_measurement_input_text_label">Enter your levels</string>
+</resources>

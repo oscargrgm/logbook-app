@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="blood_glucose_measurement_add_measurement_title">Añade medición</string>
+    <string name="blood_glucose_measurement_save_button">Añadir</string>
+    <string name="average_blood_glucose_label">Tu nivel medio es de  %1$s %2$s.</string>
+    <string name="blood_glucose_measurement_input_text_label">Introduce los valores</string>
+</resources>
