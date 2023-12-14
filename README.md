@@ -60,10 +60,12 @@ or display the tracking list.
 
 ## Getting Started
 
-1. Open the project in Android Studio:
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/oscargrgm/logbook-app.git
+   ```
+2. **Open the project in Android Studio:**
    Open Android Studio and select "Open an existing Android Studio project." Navigate to the
-   repository
-   and select the build.gradle file in the root directory.
-
-2. Run the app:
+   repository and select the build.gradle file in the root directory.
+3. **Run the app:**
    Connect an Android device or use an emulator and click the "Run" button in Android Studio.
